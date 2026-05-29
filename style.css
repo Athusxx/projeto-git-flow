@@ -35,3 +35,7 @@ li {
 .container:hover {
  box-shadow: 0 0 12px rgba(0, 0, 0, 0.15);
 }
+
+.container:hover {
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.15);
+}
